@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Marj\\Homework\\April29\\prob11Observer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{911E37A5-AC2E-40AB-B2A5-8677FF6B132C}|prob11Observer\\prob11Observer.csproj|c:\\users\\user\\desktop\\marj\\homework\\april29\\prob11observer\\prob11observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{911E37A5-AC2E-40AB-B2A5-8677FF6B132C}|prob11Observer\\prob11Observer.csproj|solutionrelative:prob11observer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\AppData\\Local\\Temp\\03b88060-b2f7-48f6-915d-68b0525f16d0_LInqQueries.zip.6d0\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\AppData\\Local\\Temp\\03b88060-b2f7-48f6-915d-68b0525f16d0_LInqQueries.zip.6d0\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\03b88060-b2f7-48f6-915d-68b0525f16d0_LInqQueries.zip.6d0\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\AppData\\Local\\Temp\\03b88060-b2f7-48f6-915d-68b0525f16d0_LInqQueries.zip.6d0\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\03b88060-b2f7-48f6-915d-68b0525f16d0_LInqQueries.zip.6d0\\Program.cs [Read Only]",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAABQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T13:53:20.577Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Marj\\Homework\\April29\\prob11Observer\\prob11Observer\\Program.cs",
+              "RelativeDocumentMoniker": "prob11Observer\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Marj\\Homework\\April29\\prob11Observer\\prob11Observer\\Program.cs",
+              "RelativeToolTip": "prob11Observer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T20:32:27.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

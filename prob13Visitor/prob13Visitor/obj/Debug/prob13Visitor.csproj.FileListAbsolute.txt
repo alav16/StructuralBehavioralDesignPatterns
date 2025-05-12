@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\prob13Visitor\prob13Visitor\obj\Debug\prob13Visitor.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob13Visitor\prob13Visitor\obj\Debug\prob13Visitor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Marj\Homework\April29\prob13Visitor\prob13Visitor\bin\Debug\prob13Visitor.exe.config
+C:\Users\user\Desktop\Marj\Homework\April29\prob13Visitor\prob13Visitor\bin\Debug\prob13Visitor.exe
+C:\Users\user\Desktop\Marj\Homework\April29\prob13Visitor\prob13Visitor\bin\Debug\prob13Visitor.pdb
+C:\Users\user\Desktop\Marj\Homework\April29\prob13Visitor\prob13Visitor\obj\Debug\prob13Visitor.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Marj\Homework\April29\prob13Visitor\prob13Visitor\obj\Debug\prob13Visitor.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Marj\Homework\April29\prob13Visitor\prob13Visitor\obj\Debug\prob13Visitor.exe
+C:\Users\user\Desktop\Marj\Homework\April29\prob13Visitor\prob13Visitor\obj\Debug\prob13Visitor.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\prob12Strategy\prob12Strategy\bin\Debug\prob12Strategy.exe.config
+C:\Users\user\Desktop\prob12Strategy\prob12Strategy\bin\Debug\prob12Strategy.exe
+C:\Users\user\Desktop\prob12Strategy\prob12Strategy\bin\Debug\prob12Strategy.pdb
+C:\Users\user\Desktop\prob12Strategy\prob12Strategy\obj\Debug\prob12Strategy.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob12Strategy\prob12Strategy\obj\Debug\prob12Strategy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob12Strategy\prob12Strategy\obj\Debug\prob12Strategy.exe
+C:\Users\user\Desktop\prob12Strategy\prob12Strategy\obj\Debug\prob12Strategy.pdb

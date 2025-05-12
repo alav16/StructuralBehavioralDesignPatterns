@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\prob1Adapter\prob1Adapter\bin\Debug\prob1Adapter.exe.config
+C:\Users\user\Desktop\prob1Adapter\prob1Adapter\bin\Debug\prob1Adapter.exe
+C:\Users\user\Desktop\prob1Adapter\prob1Adapter\bin\Debug\prob1Adapter.pdb
+C:\Users\user\Desktop\prob1Adapter\prob1Adapter\obj\Debug\prob1Adapter.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob1Adapter\prob1Adapter\obj\Debug\prob1Adapter.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob1Adapter\prob1Adapter\obj\Debug\prob1Adapter.exe
+C:\Users\user\Desktop\prob1Adapter\prob1Adapter\obj\Debug\prob1Adapter.pdb

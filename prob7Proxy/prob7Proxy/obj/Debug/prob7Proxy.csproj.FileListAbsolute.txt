@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\prob7Proxy\prob7Proxy\bin\Debug\prob7Proxy.exe.config
+C:\Users\user\Desktop\prob7Proxy\prob7Proxy\bin\Debug\prob7Proxy.exe
+C:\Users\user\Desktop\prob7Proxy\prob7Proxy\bin\Debug\prob7Proxy.pdb
+C:\Users\user\Desktop\prob7Proxy\prob7Proxy\obj\Debug\prob7Proxy.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob7Proxy\prob7Proxy\obj\Debug\prob7Proxy.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob7Proxy\prob7Proxy\obj\Debug\prob7Proxy.exe
+C:\Users\user\Desktop\prob7Proxy\prob7Proxy\obj\Debug\prob7Proxy.pdb

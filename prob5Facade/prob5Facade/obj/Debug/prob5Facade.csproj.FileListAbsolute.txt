@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\prob5Facade\prob5Facade\bin\Debug\prob5Facade.exe.config
+C:\Users\user\Desktop\prob5Facade\prob5Facade\bin\Debug\prob5Facade.exe
+C:\Users\user\Desktop\prob5Facade\prob5Facade\bin\Debug\prob5Facade.pdb
+C:\Users\user\Desktop\prob5Facade\prob5Facade\obj\Debug\prob5Facade.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob5Facade\prob5Facade\obj\Debug\prob5Facade.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob5Facade\prob5Facade\obj\Debug\prob5Facade.exe
+C:\Users\user\Desktop\prob5Facade\prob5Facade\obj\Debug\prob5Facade.pdb

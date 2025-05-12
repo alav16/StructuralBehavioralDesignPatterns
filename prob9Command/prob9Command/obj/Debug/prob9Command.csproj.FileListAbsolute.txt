@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\prob9Command\prob9Command\bin\Debug\prob9Command.exe.config
+C:\Users\user\Desktop\prob9Command\prob9Command\bin\Debug\prob9Command.exe
+C:\Users\user\Desktop\prob9Command\prob9Command\bin\Debug\prob9Command.pdb
+C:\Users\user\Desktop\prob9Command\prob9Command\obj\Debug\prob9Command.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob9Command\prob9Command\obj\Debug\prob9Command.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob9Command\prob9Command\obj\Debug\prob9Command.exe
+C:\Users\user\Desktop\prob9Command\prob9Command\obj\Debug\prob9Command.pdb

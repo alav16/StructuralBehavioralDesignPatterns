@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Marj\Homework\April29\prob8ChainOfResp\prob8ChainOfResp\bin\Debug\prob8ChainOfResp.exe.config
+C:\Users\user\Desktop\Marj\Homework\April29\prob8ChainOfResp\prob8ChainOfResp\bin\Debug\prob8ChainOfResp.exe
+C:\Users\user\Desktop\Marj\Homework\April29\prob8ChainOfResp\prob8ChainOfResp\bin\Debug\prob8ChainOfResp.pdb
+C:\Users\user\Desktop\Marj\Homework\April29\prob8ChainOfResp\prob8ChainOfResp\obj\Debug\prob8ChainOfResp.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Marj\Homework\April29\prob8ChainOfResp\prob8ChainOfResp\obj\Debug\prob8ChainOfResp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Marj\Homework\April29\prob8ChainOfResp\prob8ChainOfResp\obj\Debug\prob8ChainOfResp.exe
+C:\Users\user\Desktop\Marj\Homework\April29\prob8ChainOfResp\prob8ChainOfResp\obj\Debug\prob8ChainOfResp.pdb

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Marj\\Homework\\April29\\prob12Strategy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7817B7AC-D318-4E85-AAD9-4E92560472C5}|prob12Strategy\\prob12Strategy.csproj|c:\\users\\user\\desktop\\marj\\homework\\april29\\prob12strategy\\prob12strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7817B7AC-D318-4E85-AAD9-4E92560472C5}|prob12Strategy\\prob12Strategy.csproj|solutionrelative:prob12strategy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Marj\\Homework\\April29\\prob12Strategy\\prob12Strategy\\Program.cs",
+              "RelativeDocumentMoniker": "prob12Strategy\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Marj\\Homework\\April29\\prob12Strategy\\prob12Strategy\\Program.cs",
+              "RelativeToolTip": "prob12Strategy\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T20:36:38.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

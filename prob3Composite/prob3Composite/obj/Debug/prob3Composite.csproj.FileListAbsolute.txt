@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\prob3Composite\prob3Composite\obj\Debug\prob3Composite.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob3Composite\prob3Composite\obj\Debug\prob3Composite.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob3Composite\prob3Composite\bin\Debug\prob3Composite.exe.config
+C:\Users\user\Desktop\prob3Composite\prob3Composite\bin\Debug\prob3Composite.exe
+C:\Users\user\Desktop\prob3Composite\prob3Composite\bin\Debug\prob3Composite.pdb
+C:\Users\user\Desktop\prob3Composite\prob3Composite\obj\Debug\prob3Composite.exe
+C:\Users\user\Desktop\prob3Composite\prob3Composite\obj\Debug\prob3Composite.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\prob2Bridge\prob2Bridge\bin\Debug\prob2Bridge.exe.config
+C:\Users\user\Desktop\prob2Bridge\prob2Bridge\bin\Debug\prob2Bridge.exe
+C:\Users\user\Desktop\prob2Bridge\prob2Bridge\bin\Debug\prob2Bridge.pdb
+C:\Users\user\Desktop\prob2Bridge\prob2Bridge\obj\Debug\prob2Bridge.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob2Bridge\prob2Bridge\obj\Debug\prob2Bridge.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob2Bridge\prob2Bridge\obj\Debug\prob2Bridge.exe
+C:\Users\user\Desktop\prob2Bridge\prob2Bridge\obj\Debug\prob2Bridge.pdb

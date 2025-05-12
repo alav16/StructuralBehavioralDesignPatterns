@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\prob6Flyweight\prob6Flyweight\bin\Debug\prob6Flyweight.exe.config
+C:\Users\user\Desktop\prob6Flyweight\prob6Flyweight\bin\Debug\prob6Flyweight.exe
+C:\Users\user\Desktop\prob6Flyweight\prob6Flyweight\bin\Debug\prob6Flyweight.pdb
+C:\Users\user\Desktop\prob6Flyweight\prob6Flyweight\obj\Debug\prob6Flyweight.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob6Flyweight\prob6Flyweight\obj\Debug\prob6Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob6Flyweight\prob6Flyweight\obj\Debug\prob6Flyweight.exe
+C:\Users\user\Desktop\prob6Flyweight\prob6Flyweight\obj\Debug\prob6Flyweight.pdb

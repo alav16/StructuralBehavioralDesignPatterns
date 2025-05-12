@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\prob11Observer\prob11Observer\bin\Debug\prob11Observer.exe.config
+C:\Users\user\Desktop\prob11Observer\prob11Observer\bin\Debug\prob11Observer.exe
+C:\Users\user\Desktop\prob11Observer\prob11Observer\bin\Debug\prob11Observer.pdb
+C:\Users\user\Desktop\prob11Observer\prob11Observer\obj\Debug\prob11Observer.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob11Observer\prob11Observer\obj\Debug\prob11Observer.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob11Observer\prob11Observer\obj\Debug\prob11Observer.exe
+C:\Users\user\Desktop\prob11Observer\prob11Observer\obj\Debug\prob11Observer.pdb

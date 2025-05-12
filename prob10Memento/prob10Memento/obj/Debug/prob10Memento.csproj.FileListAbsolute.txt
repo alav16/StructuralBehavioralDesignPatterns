@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\prob10Memento\prob10Memento\bin\Debug\prob10Memento.exe.config
+C:\Users\user\Desktop\prob10Memento\prob10Memento\bin\Debug\prob10Memento.exe
+C:\Users\user\Desktop\prob10Memento\prob10Memento\bin\Debug\prob10Memento.pdb
+C:\Users\user\Desktop\prob10Memento\prob10Memento\obj\Debug\prob10Memento.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob10Memento\prob10Memento\obj\Debug\prob10Memento.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob10Memento\prob10Memento\obj\Debug\prob10Memento.exe
+C:\Users\user\Desktop\prob10Memento\prob10Memento\obj\Debug\prob10Memento.pdb

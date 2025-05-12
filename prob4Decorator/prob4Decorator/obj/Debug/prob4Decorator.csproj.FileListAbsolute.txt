@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\prob4Decorator\prob4Decorator\bin\Debug\prob4Decorator.exe.config
+C:\Users\user\Desktop\prob4Decorator\prob4Decorator\bin\Debug\prob4Decorator.exe
+C:\Users\user\Desktop\prob4Decorator\prob4Decorator\bin\Debug\prob4Decorator.pdb
+C:\Users\user\Desktop\prob4Decorator\prob4Decorator\obj\Debug\prob4Decorator.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\prob4Decorator\prob4Decorator\obj\Debug\prob4Decorator.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\prob4Decorator\prob4Decorator\obj\Debug\prob4Decorator.exe
+C:\Users\user\Desktop\prob4Decorator\prob4Decorator\obj\Debug\prob4Decorator.pdb
